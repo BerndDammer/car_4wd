@@ -1,19 +1,13 @@
 {
   "folders": [
     {
-      "path": "java_rs232test"
+      "path": "pico_lights"
     },
     {
-      "path": "java_udp_test2"
+      "path": "pico_pwm"
     },
     {
-      "path": "bitbalance"
-    },
-    {
-      "path": "CortexView"
-    },
-    {
-      "path": "demo1"
+      "path": "pico_servo"
     }
   ]
 }
