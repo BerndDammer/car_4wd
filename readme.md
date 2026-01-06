@@ -5,6 +5,6 @@ car ....
 for learning or trying out things
 
 jdk 25
-pico sdk 2.2.1
+pico sdk 2.2.0
 
 
