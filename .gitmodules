@@ -1,0 +1,3 @@
+[submodule "picow_4wd_server/FreeRTOS-Kernel"]
+	path = picow_4wd_server/FreeRTOS-Kernel
+	url = https://github.com/raspberrypi/FreeRTOS-Kernel.git
